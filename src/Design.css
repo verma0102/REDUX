@@ -1,0 +1,19 @@
+.design{
+       width:50%;
+       margin:0 auto;
+       text-align: center;
+       background-color:aqua;
+       border-radius: 20px;
+       color:blue;
+}
+
+.design:hover{
+      color:green;
+}
+
+
+.redText {
+    color: red;
+  }
+
+
